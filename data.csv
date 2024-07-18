@@ -1,6 +1,6 @@
 ﻿title,description,url,image
-Voice App,"A GUI app to estimate vocal quality  and characteristics like Shimmer, Jitter, Cepstral peak prominence e.t.c",https://pythonhow.com,1.png
+Voice Feature Extractor  App,"A GUI app to estimate vocal quality  and characteristics like Shimmer, Jitter, Cepstral peak prominence e.t.c",https://pythonhow.com,1.png
 Portfolio Website,A website built entirely in Python to showcase coding projects and apps.,https://pythonhow.com,2.png
 Sampler,A basic GUI to estimates sample size and power for research,https://pythonhow.com,3.png
-Voice Compare,A GUI app to compare voice similarity and also detect deep fake voices,https://pythonhow.com,4.png
+Voice Comparison App,A GUI app to compare voice similarity and also detect deep fake voices,https://pythonhow.com,4.png
 Reuben_GPT,A desktop GUI chatgpt-like app build on open ai's API,https://pythonhow.com,5.png
